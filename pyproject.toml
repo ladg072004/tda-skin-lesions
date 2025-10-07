@@ -1,0 +1,6 @@
+
+[project]
+name = "tda-skin-lesions"
+version = "0.1.0"
+description = "Demo de Análisis Topológico de Lesiones Cutáneas en Python"
+requires-python = ">=3.9"

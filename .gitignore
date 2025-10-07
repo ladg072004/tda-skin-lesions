@@ -1,0 +1,28 @@
+# --- Python (cachés/artefactos) ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# --- Entornos virtuales (no subirlos) ---
+.venv/
+venv/
+env/
+
+# --- IDEs/editores ---
+.vscode/
+.idea/
+
+# --- Artefactos y datos pesados (no versionar) ---
+models/
+data/
+*.ipynb_checkpoints/
+
+# --- Streamlit (config local) ---
+.streamlit/
+
+# --- Archivos del SO ---
+.DS_Store
+Thumbs.db
