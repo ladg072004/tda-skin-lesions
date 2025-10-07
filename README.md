@@ -50,3 +50,4 @@ python -m tda_skin.train --data_dir sample_images --out models
 # 4️⃣ Ejecutar la aplicación interactiva
 streamlit run tda_skin/demo_app.py
 
+💬 “Donde la topología se encuentra con la medicina, la matemática se vuelve una herramienta para salvar vidas.”
